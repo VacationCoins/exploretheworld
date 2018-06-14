@@ -1,0 +1,2 @@
+# exploretheworld
+Vacation Coins (VCC) is a string of digital code currency built to run on the Ethereum blockchain which is spendable and can be received on any ERC-20 compatible wallet. It provides a fast means of exchange and minimal transaction fees. Why worry about changing your fiat currency on tour or vacation? Why rush down to the nearest bureau de change for that upcoming trip? Overtime, there have been arguments about the role of BDCs. Some even went to the extent of saying that BDCs are no longer relevant. Vacation Coin seeks to bridge that gap.
